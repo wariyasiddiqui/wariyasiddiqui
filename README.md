@@ -1,4 +1,4 @@
-Hi, I'm Wariya 👋
+# Hi, I'm Wariya 👋
 
 ### Full-Stack & AI Automation Developer
 I build web apps and AI automations that work in production, so your team saves time and your product ships faster.
